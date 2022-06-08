@@ -15,7 +15,7 @@ The results of data analysis are visualized and presented as follows.
 <img src="https://user-images.githubusercontent.com/80690817/172610486-f657e544-4a8e-409f-b30f-0ac91263fda3.png" data-canonical-src="https://user-images.githubusercontent.com/80690817/172610486-f657e544-4a8e-409f-b30f-0ac91263fda3.png" width="600" height="400" />
 
 The interactive dashboard can be accessed from the URL below.
-https://public.tableau.com/app/profile/yang7231/viz/Dashboard_final_16402072757680/FinalDashboard?publish=yes
+https://public.tableau.com/app/profile/yang7231/viz/TravelerInsightDashboard/TravelerInsightDashboard
 
 
 ## Description of Files
