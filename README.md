@@ -1,7 +1,7 @@
 # Data Warehouse and Data Lake Systems Design
 **Data Warehouse and Data Lake Systems Design - An Application for Searching Tourism Attractions in Switzerland**
 
-The project aims to build a travel data warehouse and develop an insight dashboard that provides information about the most popular attractions and destinations in Switzerland to the Asian market. 
+The project aims to build a travel data warehouse and develop an insight dashboard that provides information about the most popular attractions and destinations in Switzerland. 
 
 ## Database Architecture
 The target of this database is to build a User Interface for decision-making of travelers and understand how the impact of social media and influencers is. 
