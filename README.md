@@ -8,7 +8,7 @@ The target of this database is to build a User Interface for decision-making of 
 
 Below figure shows the architecture of database architecture. Data sources consist of 3 API and 2 datassheets. Except static data such as Switzerland city, canton, destination, information of geographical locations, dynamic data are fetched via Instagram Graph API and pytrends API. The data lake is built in Amazon Relational Database Service (RDS). Apache Airflow is utilized to execute data pipeline processes automatically. After that, all needed datasets are stored in the data lake. 
 
-<img src="https://user-images.githubusercontent.com/80690817/172610432-5ccb3195-a42b-44b5-966e-b5393d38cf96.png" data-canonical-src="https://user-images.githubusercontent.com/80690817/172610432-5ccb3195-a42b-44b5-966e-b5393d38cf96.png" width="70%" height="70%" />
+<img src="https://user-images.githubusercontent.com/80690817/172610432-5ccb3195-a42b-44b5-966e-b5393d38cf96.png" data-canonical-src="https://user-images.githubusercontent.com/80690817/172610432-5ccb3195-a42b-44b5-966e-b5393d38cf96.png" width="80%" height="80%" />
 
 
 ## Traveler-insight Dashboard
