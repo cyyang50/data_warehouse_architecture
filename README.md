@@ -23,4 +23,5 @@ https://public.tableau.com/app/profile/yang7231/viz/TravelerInsightDashboard/Tra
 ## Description of Files
 trends_all.py : airflow dags files fetch the google trends of all cities in Switzerland and
 the trends of all hashtags from Instagram.
+
 upload_city_list_to RDS_PostgreSQL.py : python script uploads the datasheet to AWS RDS.
